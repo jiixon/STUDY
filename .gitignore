@@ -261,8 +261,8 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 .idea/caches/build_file_checksums.ser
 
-DesignPattern/**/Strategy.iml
-DesignPattern/**/Observer.iml
-DesignPattern/**/Decorator.iml
-DesignPattern/**/Factory.iml
-DesignPattern/**/Singleton.iml
+디자인패턴/**/Strategy.iml
+디자인패턴/**/Observer.iml
+디자인패턴/**/Decorator.iml
+디자인패턴/**/Factory.iml
+디자인패턴/**/Singleton.iml
