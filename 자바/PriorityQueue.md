@@ -20,6 +20,7 @@ PriorityQueue<Integer> queue = new PriorityQueue<>(Collections.reverseOrder());
 - `offer()`: 큐에 원소 추가. 실패시 false 반환
 - `poll()`: 큐에 맨 첫번째 값 반환 후 제거, 비어있으면 null 반환
 - `remove()`: 큐에 첫번째 값 반환 후 제거, 비어있으면 에러발생
+  - `remove(삭제할 value)`: 큐에 해당 value가 존재하면 해당 값 삭제 후 true, 존재하지 않으면 false 반환
 - `peek()` : 첫번째 값 반환만 하고 제거는 하지 않음, 비어있으면 null 반환
 - `element()` : 첫번째 값 반환만 하고 제거는 하지 않음, 비어있으면 에러 발생
 - `isEmpty()`: 큐에 첫번째 값 반환 후 제거, 비어있으면 에러발생 *<- 보통 while문과 함께 사용*
