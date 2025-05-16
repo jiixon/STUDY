@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DesignPattern/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/DesignPattern/Decorator/Decorator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DesignPattern/Factory/Factory.iml" filepath="$PROJECT_DIR$/DesignPattern/Factory/Factory.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DesignPattern/Observer/Observer.iml" filepath="$PROJECT_DIR$/DesignPattern/Observer/Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/디자인패턴/Decorator/Decorator.iml" filepath="$PROJECT_DIR$/디자인패턴/Decorator/Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/디자인패턴/Factory/Factory.iml" filepath="$PROJECT_DIR$/디자인패턴/Factory/Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/디자인패턴/Observer/Observer.iml" filepath="$PROJECT_DIR$/디자인패턴/Observer/Observer.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/STUDY.iml" filepath="$PROJECT_DIR$/.idea/STUDY.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DesignPattern/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/DesignPattern/Singleton/Singleton.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DesignPattern/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/DesignPattern/Strategy/Strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/디자인패턴/Singleton/Singleton.iml" filepath="$PROJECT_DIR$/디자인패턴/Singleton/Singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/디자인패턴/Strategy/Strategy.iml" filepath="$PROJECT_DIR$/디자인패턴/Strategy/Strategy.iml" />
     </modules>
   </component>
 </project>
