@@ -35,7 +35,8 @@ pq.offer(3);// pq에 원소 3 추가
 pq.offer(4);// pq에 원소 4 추가
 pq.offer(1);// pq에 원소 1 추가
 
-// pq가 비어있면: true, 그렇지 않으면 : falsewhile(!pq.isEmpty()) {
+// pq가 비어있면: true, 그렇지 않으면 : false
+while(!pq.isEmpty()) {
 // pq 첫 번째 값을 반환하고 제거, 비어있다면 null 반환
     System.out.println("pq.poll() = " + pq.poll());
 }
