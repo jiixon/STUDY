@@ -63,7 +63,7 @@ void direct_business() {
 - 만들어서 ready()를 호출
 - 결과
 
-![self-invocation](/스프링/images/img6.png)
+![self-invocation](/스프링/images/img4.png)
 
 - ready → go 이 호출됨
 
@@ -92,7 +92,7 @@ bs.ready()호출하면
 - > **이때 프록시 객체는 SimpleBusiness객체에 대한 모든 메서드 호출을 가로채서 ExecuteLoggingAdvice의 invoke메서드 호출**
 - 결과
 
-![](https://blog.kakaocdn.net/dn/Ob0N2/btsKHawhYvh/tAba0VEYiRvlMtQC9DjnDK/img.png)
+![self-invocation](/스프링/images/img5.png)
 
 - execute method [go]가 호출이 안되었네요
 
@@ -113,7 +113,7 @@ transcational에서 이러한 self-invocation이 발생할 수 있음
 
 - > 스프링에서는 AOP, 트랜잭션 설정시 주로 나타날수 있는 문제이다!
 
-![](https://blog.kakaocdn.net/dn/egFKI3/btsKGq1bpV7/nI60VNFd3McZKunOd4ncu1/img.png)
+![self-invocation](/스프링/images/img6.png)
 
 ### 05. self-invocation
 
