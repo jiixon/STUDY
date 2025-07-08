@@ -104,4 +104,4 @@ public class RequesterInfoAspect {
 
 <결과>
 
-![apivsimplement](images/img11.png)
+![aop로깅](images/img11.png)
